@@ -25,22 +25,20 @@ Resized the image to a uniform dimension using cv2.resize().
 Saved the processed image using cv2.imwrite().
 
 5. Face Detection
-Implemented Haar Cascade Classifier to detect human faces.
-
-Used haarcascade_frontalface_default.xml from OpenCV.
+.Implemented Haar Cascade Classifier to detect human faces.
+.Used haarcascade_frontalface_default.xml from OpenCV.
 
 6. GUI Implementation
-Created a user interface using Tkinter.
-
-GUI lets users select an image and see detection results.
+.Created a user interface using Tkinter.
+.GUI lets users select an image and see detection results.
 
 🧠 Working Process (Step-by-Step)
-Set up Python and OpenCV.
-Created and tested code to load and display images.
-Added grayscale conversion, resizing, and save functions.
-Integrated face detection using Haar cascades.
-Designed a GUI with buttons to:
-Upload an image
-Detect face
-View result
+1)Set up Python and OpenCV.
+2)Created and tested code to load and display images.
+3)Added grayscale conversion, resizing, and save functions.
+4)Integrated face detection using Haar cascades.
+5)Designed a GUI with buttons to:
+.Upload an image
+.Detect face
+.View result
 
